@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffarat, I live in Colombia. I'm an Automation Engineer.
 - 👀 I’m interested in challenging myself every day
-- 🌱 I’m currently learning Playwrigth, Cypress and Selenium Webdriver
+- 🌱 I’ll be practicing Playwright, Cypress, and Selenium Webdriver in this repo 
 - 📫 How to reach me: https://www.linkedin.com/in/jeffarat/
 - ⚡ Fun fact: I like to make my friends argue among themselves XD
 
